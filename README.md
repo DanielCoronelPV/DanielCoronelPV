@@ -27,7 +27,7 @@ I'm a software developer from Paraguay 🇵🇾 with almost 3 years of experienc
 
 ---
 
-<p align="center">
+<p align="center" display="flex">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=radical)
 
