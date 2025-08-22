@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Coronel
 
-<!--
-**DanielCoronelPV/DanielCoronelPV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Paraguay 🇵🇾 with almost 3 years of experience working remotely for Latin American -based companies.
 
-Here are some ideas to get you started:
+🔭 Currently, I work at DRR Systemas (Consultoría Tecnológica, Argentina)  
+🌎 Participating in DevBridge LATAM – a mentorship program helping LATAM developers land remote jobs in the U.S.A.  
+💬 I love talking about JavaScript, Typescript, Css, animations in general, and clean code.  
+🎯 Focused on building scalable web applications, improve my English and be a better professional.  
+🧠 Lifelong learner. Passionate about technology and my family mainly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Languages:** JavaScript, TypeScript, HTML, CSS  
+**Frameworks:** Node.js, Angular  
+**Tools:** Git, GitHub, Docker, Firebase, VSCode, Android Studio  
+**Currently exploring:** C#, .net, AI tools
+
+---
+
+## 📫 Let's connect!
+
+- [LinkedIn](https://www.linkedin.com/in/dani-coro)  
+- [Portfolio](https://danielcoronel.netlify.app/)  
+- Email: danicoronel2022@hotmail.com
