@@ -27,12 +27,12 @@ I'm a software developer from Paraguay 🇵🇾 with almost 3 years of experienc
 
 ---
 
-Get dynamically generated GitHub stats on your READMEs!
+*   Compact layout
 
-Tests Passing GitHub Contributors Tests Coverage Issues GitHub pull requests OpenSSF Scorecard
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
 
+*   Themes
 
+Choose from any of the [default themes](#themes)
 
-View Demo · Report Bug · Request Feature · FAQ · Ask Question
-
-Français · 简体中文 · Español · Deutsch · 日本語 · Português Brasileiro · Italiano · 한국어 · Nederlands · नेपाली · Türkçe
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=radical)
