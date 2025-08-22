@@ -32,7 +32,7 @@ I'm a software developer from Paraguay 🇵🇾 with almost 3 years of experienc
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=DanielCoronelPV&show_icons=true&theme=radical&count_private=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCoronelPV&layout=compact">
 
 </p>
 
