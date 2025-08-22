@@ -24,3 +24,15 @@ I'm a software developer from Paraguay 🇵🇾 with almost 3 years of experienc
 - [LinkedIn](https://www.linkedin.com/in/dani-coro)  
 - [Portfolio](https://danielcoronel.netlify.app/)  
 - Email: danicoronel2022@hotmail.com
+
+---
+
+Get dynamically generated GitHub stats on your READMEs!
+
+Tests Passing GitHub Contributors Tests Coverage Issues GitHub pull requests OpenSSF Scorecard
+
+
+
+View Demo · Report Bug · Request Feature · FAQ · Ask Question
+
+Français · 简体中文 · Español · Deutsch · 日本語 · Português Brasileiro · Italiano · 한국어 · Nederlands · नेपाली · Türkçe
