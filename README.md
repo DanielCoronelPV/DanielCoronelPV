@@ -25,7 +25,9 @@ I'm a software developer from Paraguay 🇵🇾 with almost 3 years of experienc
 - [Portfolio](https://danielcoronel.netlify.app/)  
 - Email: danicoronel2022@hotmail.com
 
+
 ---
+
 
 <p align="center">
   
