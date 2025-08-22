@@ -27,10 +27,9 @@ I'm a software developer from Paraguay 🇵🇾 with almost 3 years of experienc
 
 ---
 
-<div justify-content="center" width="100%" display="flex">
+<p align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
-
-</div>
+</p>
