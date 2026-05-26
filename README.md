@@ -22,7 +22,7 @@ I'm a software developer from Paraguay 🇵🇾 with almost 3 years of experienc
 ## 📫 Let's connect!
 
 - [LinkedIn](https://www.linkedin.com/in/dani-coro)  
-- [Portfolio]([https://danielcoronel.netlify.app/](https://danielcoronel.vercel.app/))
+- [Portfolio](https://danielcoronel.vercel.app/))
 - Email: danicoronel201070@gmail.com
 
 
