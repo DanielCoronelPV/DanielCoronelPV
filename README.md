@@ -43,9 +43,18 @@ I'm a software developer from Paraguay 🇵🇾 with more than 3 years of experi
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielCoronelPV/DanielCoronelPV/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielCoronelPV/DanielCoronelPV/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielCoronelPV/DanielCoronelPV/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DanielCoronelPV/DanielCoronelPV/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DanielCoronelPV/DanielCoronelPV/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/DanielCoronelPV/DanielCoronelPV/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 
