@@ -31,14 +31,14 @@ I'm a software developer from Paraguay 🇵🇾 with more than 3 years of experi
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DanielCoronelPV&show_icons=true&theme=radical&include_all_commits=true&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=DanielCoronelPV&show_icons=true&theme=radical&hide_border=true"
     height="165"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCoronelPV&layout=compact&theme=radical&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanielCoronelPV&layout=compact&theme=radical&hide_border=true"
     height="165"
-    alt="Most Used Languages"
+    alt="Top Languages"
   />
 </p>
 
