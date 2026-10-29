@@ -30,15 +30,16 @@ I'm a software developer from Paraguay 🇵🇾 with more than 3 years of experi
 
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=DanielCoronelPV&show_icons=true&theme=radical&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanielCoronelPV&layout=compact&theme=radical&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielCoronelPV&show_icons=true&theme=radical&count_private=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCoronelPV&layout=compact&theme=radical">
+
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielCoronelPV/DanielCoronelPV/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielCoronelPV/DanielCoronelPV/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielCoronelPV/DanielCoronelPV/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
