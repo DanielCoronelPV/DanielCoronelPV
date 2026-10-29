@@ -15,7 +15,7 @@ I'm a software developer from Paraguay 🇵🇾 with more than 3 years of experi
 **Languages:** JavaScript, TypeScript, C#              
 **Frameworks:** SQL Server, Blazor, Angular, React  
 **Tools:** Git, GitHub, Docker, Firebase, VSCode, Android Studio  
-**Currently exploring:** C#, .net, AI tools
+**Currently exploring:** .NET, AI tools
 
 ---
 
