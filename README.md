@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Daniel Coronel
 
-I'm a software developer from Paraguay 🇵🇾 with almost 3 years of experience working remotely for Latin American -based companies.
+I'm a software developer from Paraguay 🇵🇾 with more than 3 years of experience working remotely for Latin American -based companies.
 
 🔭 Currently, I work at DRR Systemas (Consultoría Tecnológica, Argentina)  
 🌎 Participating in DevBridge LATAM – a mentorship program helping LATAM developers land remote jobs in the U.S.A.  
-💬 I love talking about JavaScript, Typescript, Css, animations in general, and clean code.  
+💬 I love talking about C#, Typescript, .NET, animations in general, and clean code.  
 🎯 Focused on building scalable web applications, improve my English and be a better professional.  
 🧠 Lifelong learner. Passionate about technology and my family mainly.
 
@@ -12,8 +12,8 @@ I'm a software developer from Paraguay 🇵🇾 with almost 3 years of experienc
 
 ## 🚀 Tech Stack
 
-**Languages:** JavaScript, TypeScript, HTML, CSS  
-**Frameworks:** Node.js, Angular  
+**Languages:** JavaScript, TypeScript, C#
+**Frameworks:** SQL Server, Blazor, Angular, React  
 **Tools:** Git, GitHub, Docker, Firebase, VSCode, Android Studio  
 **Currently exploring:** C#, .net, AI tools
 
